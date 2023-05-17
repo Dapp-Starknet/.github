@@ -1,8 +1,7 @@
 
 # Dapp-Starknet 
 
-A brief description of what this project does and who it's for
-
+Forkable full-stack Dapp starter kit for Cairo and Starknet development
 
 ## Features
 
